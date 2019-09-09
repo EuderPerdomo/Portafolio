@@ -20,3 +20,6 @@ Route::get('home', function () {
 Route::get('homeportafolio', function () {
     return view('layouts.home.homeportafolio');
 });
+Route::get('biografia', function () {
+    return view('layouts.home.biografia');
+});
