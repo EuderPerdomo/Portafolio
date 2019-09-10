@@ -23,3 +23,9 @@ Route::get('homeportafolio', function () {
 Route::get('biografia', function () {
     return view('layouts.home.biografia');
 });
+Route::get('contacto', function () {
+    return view('layouts.home.contacto');
+});
+Route::get('folio', function () {
+    return view('layouts.home.folio');
+});

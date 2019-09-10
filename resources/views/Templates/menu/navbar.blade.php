@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Portafolio</a>
+  <a class="navbar-brand" href="folio">Portafolio</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -10,11 +10,10 @@
         <a class="nav-link" href="homeportafolio">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a href="{{ url('biografia') }}">Ver detalle</a>
         <a class="nav-link" href="biografia">Biografia</a>
       </li>
        <li class="nav-item active">
-        <a class="nav-link" href="#">Contacto</a>
+        <a class="nav-link" href="contacto">Contacto</a>
       </li>
 
     </ul>

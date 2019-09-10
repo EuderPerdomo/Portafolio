@@ -1,7 +1,7 @@
-@extends('Templates.templatebiografia')
+@extends('Templates.templatefolio')
 
-@section('biografia')
-<div>
+@section('folio')
+<div class="container ">
     <p>
         <h2>14 de Octubre de 1996 a Hoy</h2>
         Naci el 14 De octubre de 1996 en puerto Rico Caqueta, Hijo de la señora Cristina Ospitia Quintero Y Farid Perdomo Vargas, a los 6 años nos mudamos a Florencia Caqueta donde realizaria parte de mis estudios primarios los cuales culmine en Pitalito Huila, a la edad de 16 años culminara estudios secundarios en la Institucion Educativa Tibabuyes Universal de la ciudad de Bogota.
@@ -10,3 +10,4 @@
 
 </div>
 @endsection('content')
+
