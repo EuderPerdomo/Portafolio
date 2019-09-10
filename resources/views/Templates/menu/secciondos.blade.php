@@ -19,9 +19,9 @@
                             <!--Skill Start-->
                             <div class="col-xl-5 col-sm-6 col-12 mb-35">
                                 <div class="skill">
-                                    <h6 class="title">Photoshop</h6>
+                                    <h6 class="title">Java</h6>
                                     <div class="progress">
-                                        <div class="progress-bar" data-value="90%" style="width: 90%;"></div>
+                                        <div class="progress-bar" data-value="90%" style="width: 50%;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -30,7 +30,7 @@
                             <!--Skill Start-->
                             <div class="col-xl-5 col-sm-6 col-12 mb-35">
                                 <div class="skill">
-                                    <h6 class="title">After Effect</h6>
+                                    <h6 class="title">PHP</h6>
                                     <div class="progress">
                                         <div class="progress-bar" data-value="75%" style="width: 75%;"></div>
                                     </div>
@@ -41,9 +41,9 @@
                             <!--Skill Start-->
                             <div class="col-xl-5 col-sm-6 col-12 mb-35">
                                 <div class="skill">
-                                    <h6 class="title">Illustrator</h6>
+                                    <h6 class="title">HTML</h6>
                                     <div class="progress">
-                                        <div class="progress-bar" data-value="82%" style="width: 82%;"></div>
+                                        <div class="progress-bar" data-value="82%" style="width: 80%;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -52,9 +52,9 @@
                             <!--Skill Start-->
                             <div class="col-xl-5 col-sm-6 col-12 mb-35">
                                 <div class="skill">
-                                    <h6 class="title">Indesign</h6>
+                                    <h6 class="title">C++</h6>
                                     <div class="progress">
-                                        <div class="progress-bar" data-value="95%" style="width: 95%;"></div>
+                                        <div class="progress-bar" data-value="95%" style="width: 10%;"></div>
                                     </div>
                                 </div>
                             </div>

@@ -19,7 +19,6 @@
 	@yield('biografia')
 </section>
 
-
 <section>
 	 @include('Templates.menu.footer')
     <!-- @yield('footer') -->

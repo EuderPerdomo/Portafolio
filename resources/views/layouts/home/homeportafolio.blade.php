@@ -2,6 +2,4 @@
 
 @section('footer')
 
-
-
-@endsection('content')
+@endsection('footer')

@@ -2,10 +2,9 @@
             <div class="container">
 
                 <!--Main Slider Content Start-->
-                <div class="main-slider-content">
-                    <h2>Hola, yo soy</h2>
-                    <h1>Fabian Perdomo</h1>
-                    <a href="#">Download Resume</a>
+                <div class="main-slider-content">            
+                    <h1>E. Fabian Perdomo Ospitia</h1>
+                    <h2>Ingeniero de Software</h2>                   
                 </div>
                 <!--Main Slider Content End-->
 
