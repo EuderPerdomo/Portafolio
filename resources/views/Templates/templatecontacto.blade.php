@@ -7,23 +7,17 @@
 <link rel="stylesheet" type="text/css" href="css/contacto.css">
 </head>
 <body>
-<div class="container">
-	<section class="mx-auto">               
-                 @include('Templates.menu.navbar')          
-            </section>
-
-            <section class="contenido">
-            	@yield('contacto')
-            </section>
-            
-            <section>
-
-	 @include('Templates.menu.footer')
-    
-</section>
-
-
-</div>
+    <div class="container">
+       <section class="mx-auto">               
+           @include('Templates.menu.navbar')          
+       </section>
+       <section class="contenido">
+           @yield('contacto')
+       </section>
+       <section class="pie">
+          @include('Templates.menu.footer')
+      </section>
+  </div>
 
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -22,7 +22,7 @@
                         <div class="form-group">
                             <label for="name">
                                 Nombre</label>
-                            <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
+                            <input type="text" class="form-control" id="name" placeholder="Nombre" required="required" />
                         </div>
                         <div class="form-group">
                             <label for="email">
@@ -30,16 +30,16 @@
                             <div class="input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
                                 </span>
-                                <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
+                                <input type="email" class="form-control" id="email" placeholder="Correo" required="required" /></div>
                         </div>
                         <div class="form-group">
                             <label for="subject">
                                 Tema</label>
                             <select id="subject" name="subject" class="form-control" required="required">
                                 <option value="na" selected="">Elija Una:</option>
-                                <option value="service">General Customer Service</option>
-                                <option value="suggestions">Suggestions</option>
-                                <option value="product">Product Support</option>
+                                <option value="service">General</option>
+                                <option value="suggestions">Sugerencias</option>
+                                <option value="product">Soporte</option>
                             </select>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                             <label for="name">
                                 Mensaje</label>
                             <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
-                                placeholder="Message"></textarea>
+                                placeholder="Mensaje"></textarea>
                         </div>
                     </div>
                     <div class="col-md-12">

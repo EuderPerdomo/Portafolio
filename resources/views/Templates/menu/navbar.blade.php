@@ -34,7 +34,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="nav justify-content-center">
       <li class="nav-item active">
-        <a class="nav-link" href="homeportafolio">Home<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="home">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="biografia">Biografia</a>

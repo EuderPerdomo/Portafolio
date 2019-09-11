@@ -15,10 +15,10 @@ Route::get('/', function () {
     return view('layouts.home.home');
 });
 Route::get('home', function () {
-    return view('Templates.templateportafolio');
+    return view('Templates.templatehome');
 });
 Route::get('homeportafolio', function () {
-    return view('layouts.home.homeportafolio');
+    return view('layouts.home.home');
 });
 Route::get('biografia', function () {
     return view('layouts.home.biografia');

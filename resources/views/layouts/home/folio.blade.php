@@ -1,13 +1,11 @@
 @extends('Templates.templatefolio')
 
 @section('folio')
-<div class="container ">
-    
-        <h2>Experiencia profesional</h2>  
-
+<div class="container ">   
+      
 <h3>Dvrnet Security System S.A.S</h3>
 <p>
-Teléfono: 2358841
+Teléfono: 2358841<br>
 Fecha: 01 de febrero del 2017 a Fecha actual<br>
 Cargo Desempeñado: Soporte Técnico<br>
 Funciones  Principales:  <br>
@@ -24,7 +22,8 @@ Brindar   soporte   Telefónico   a   personal técnico  de  Movistar  para  la 
 </p>
      
 <h3>Grupo OP Graficas</h3>
-<p>Teléfono: 2358896<br>
+<p>
+Teléfono: 2358896<br>
 Fecha: 24 de julio del 2014 al 31 de diciembre del 2014 (Practicas)<br>
 Cargo Desempeñado: Aprendiz Sistemas<br>
 Funciones   Principales:  <br>
@@ -35,7 +34,7 @@ Funciones   Principales:  <br>
 
 
 
-<h2>ESTUDIOS</h2>  
+<h3>Estudios</h3>  
     <p>
     
     	Año: En desarrolloProfesional: (6 sexto Semestre, jornada nocturna) Ingeniería de Software Fundación Universitaria Unipanamericana. Bogotá. <br>
@@ -57,5 +56,4 @@ Funciones   Principales:  <br>
    
 
 </div>
-@endsection('content')
-
+@endsection('folio')

@@ -14,13 +14,15 @@
                  <div class="container">
                  @include('Templates.menu.navbar')
             </div>  
-
             </section>
-<section class="cont">
-	@yield('biografia')
+<section>
+	<div class="cont">
+			@yield('biografia')
+	</div>
+
 </section>
 
-<section>
+<section class="pie">
 	 @include('Templates.menu.footer')
     <!-- @yield('footer') -->
 </section>

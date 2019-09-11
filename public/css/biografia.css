@@ -1,17 +1,19 @@
-.jumbotron {
-background: #358CCE;
-color: #FFF;
-border-radius: 0px;
 
+body{
+	background: #c1bebd;
 }
-.jumbotron-sm { padding-top: 24px;
-padding-bottom: 24px; }
-.jumbotron small {
-color: #FFF;
-}
-.h1 small {
-font-size: 24px;
-}
+
 .cont{
-	padding-top: 110px;
+font-family: "BenchNine", sans-serif;
+	padding: 80px;
+	text-align: justify;
+	font-size: 20px; 	
+}
+.pie{
+	padding-top: 40px;
+}
+
+h2{
+	font-family: "BenchNine", sans-serif;
+	font-size: 30px;    
 }
