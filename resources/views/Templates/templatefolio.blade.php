@@ -15,7 +15,7 @@
             </div>  
 
             </section>
-<section>
+<section class="cont">
 	@yield('folio')
 </section>
 

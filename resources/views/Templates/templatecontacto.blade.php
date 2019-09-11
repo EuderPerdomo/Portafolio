@@ -8,13 +8,11 @@
 </head>
 <body>
 <div class="container">
-	<section class="mx-auto">
-                 <div class="container">
-                 @include('Templates.menu.navbar')
-            </div>  
+	<section class="mx-auto">               
+                 @include('Templates.menu.navbar')          
             </section>
 
-            <section>
+            <section class="contenido">
             	@yield('contacto')
             </section>
             

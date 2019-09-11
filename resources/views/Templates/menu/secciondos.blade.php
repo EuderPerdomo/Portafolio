@@ -7,7 +7,7 @@
                     <div class="col-lg-5 col-12">
                         <div class="section-title section-title-bg text-left">
                             <h2 class="title">Perfil</h2>
-                            <p class="desc">Tecnólogo  en  mantenimientode  equipos  de  cómputo,  diseño e  instalación  de cableado estructurado,  con  conocimientos  en  servicio  al  cliente,brindar  soporte técnico  a  usuarios,  manejo  de  suite  de  ofimática  en  general. Ensambley mantenimiento de computadores, experiencia formativa en diagnóstico de equipos de cómputo, configuración de hardware y software, manejo de diferentes sistemas operativos,  recolección  y  organización  de  información,  Con  competencias  en iniciativa, orientación al cliente, mejoramiento continuo y capacidad investigativa</p>
+                            <p class="desc">Estudiante de Sextosemestre de ingeniería de software, Tecnólogo en mantenimiento de   equipos   de   cómputo   diseño   e   instalación   de   cableado   estructurado,   con conocimiento  en  servicio  al  cliente,  soporte  técnico  a  usuarios  en  sitio  y  de  manera remota.   Ensamble   y   mantenimiento   correctivo   y   preventivo   de   dispositivos electrónicos, experiencia formativa en configuración de hardware y software, manejo de diferentes sistemas operativos, recolección y organización de la información. Con competencias   en   iniciativa,   orientación   al   cliente,   capacidad   investigativa   y mejoramiento continuo.</p>
                         </div>
                     </div>
                     <!--Section Title End-->

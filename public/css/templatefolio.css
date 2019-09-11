@@ -1,5 +1,10 @@
+body{
+    background: black;
+}
+
 .slider-bg-1 {
-    background-image: url(../img/yo.jpeg);
+    background-image: url(../img/yo.jpg);
+    
     background-color: #ffffff;
     font-size: 18px;
     line-height: 1.5;
