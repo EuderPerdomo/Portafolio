@@ -15,6 +15,14 @@
                  @include('Templates.menu.navbar')
             </div>  
             </section>
+
+            <section>	
+		<div class="tiempo">
+			<div class="container">
+				 <h1>14 de Octubre de 1996</h1>
+			</div>
+        </div>
+		</section>
 <section>
 	<div class="cont">
 			@yield('biografia')
